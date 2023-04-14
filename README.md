@@ -1,1 +1,2 @@
 Practice Git
+git fetch
